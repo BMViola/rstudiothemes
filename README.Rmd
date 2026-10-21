@@ -7,11 +7,11 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## [BMViola/Chalkboard](https://github.com/BMViola/rstudiothemes/blob/master/themes/Chalkboard.tmTheme)
+## [BMViola/Chalkboard-theme-for-RStudio](https://github.com/BMViola/Chalkboard-theme-for-RStudio)
 
-A dark green chalkboard-style theme for RStudio
+An old-school chalkboard inspired theme for RStudio
 
-<p align="center"><img src="https://github.com/BMViola/rstudiothemes/raw/master/themes/chalkboard.png" width='80%' /></p>
+<p align="center"><img src="https://github.com/BMViola/Chalkboard-theme-for-RStudio/raw/main/Chalkboard_Theme_Example.png" width='80%' /></p>
 
 
 
