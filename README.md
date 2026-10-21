@@ -5,7 +5,7 @@ RStudio themes
 
 An old-school chalkboard inspired theme for RStudio
 
-<p align="center"><img src="https://github.com/BMViola/Chalkboard-theme-for-RStudio/raw/main/Chalkboard_Theme_Example.png" width='80%' /></p>
+<p align="center"><img src="https://github.com/BMViola/Chalkboard-theme-for-RStudio/raw/main/Chalkboard_Theme_Example.png" width='40%' /></p>
 
 ## [calligross/ggthemeassist](https://github.com/calligross/ggthemeassist)
 
