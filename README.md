@@ -1,9 +1,11 @@
 RStudio themes
 ================
 
-## [BMViola/Chalkboard](https://github.com/BMViola/rstudiothemes/blob/master/themes/Chalkboard.tmTheme)
+## [BMViola/Chalkboard-theme-for-RStudio](https://github.com/BMViola/Chalkboard-theme-for-RStudio)
 
-A dark green old-school chalkboard inspired theme for RStudio
+An old-school chalkboard inspired theme for RStudio
+
+<p align="center"><img src="https://github.com/BMViola/Chalkboard-theme-for-RStudio/raw/main/Chalkboard_Theme_Example.png" width='80%' /></p>
 
 ## [calligross/ggthemeassist](https://github.com/calligross/ggthemeassist)
 
