@@ -7,6 +7,12 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## [BMViola/Chalkboard](https://github.com/BMViola/rstudiothemes/blob/master/themes/Chalkboard.tmTheme)
+
+A dark green old-school chalkboard inspired theme for RStudio
+
+
+
 ## [calligross/ggthemeassist](https://github.com/calligross/ggthemeassist)
 
 A RStudio addin for ggplot2 theme tweaking
